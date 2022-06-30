@@ -1,3 +1,6 @@
+![Developer joke](https://readme-jokes.vercel.app/api?theme=darcula)
+
+
 ## Hi there! 👋 
 
 👩‍💻 I’m Danijela Popović AKA Dani. I'm a Python developer, mainly focused on Django and GUI projects. 
