@@ -1,7 +1,7 @@
 ![Developer joke](https://readme-jokes.vercel.app/api?theme=darcula)
 
 
-## Hi there! 👋 
+![Hi! 👋 I'm Dani](https://github.com/vlajna95/vlajna95/blob/main/header.png?raw=true)
 
 👩‍💻 I’m Danijela Popović AKA Dani. I'm a Python developer, mainly focused on Django and GUI projects. 
 
